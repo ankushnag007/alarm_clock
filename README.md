@@ -1,5 +1,5 @@
 # alarmclock
-implemented does use object-oriented programming (OOP) principles in JavaScript effectively
+implemented code does use object-oriented programming (OOP) principles in JavaScript effectively
 
 
 Set an Alarm:
